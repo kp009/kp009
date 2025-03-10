@@ -27,6 +27,6 @@ which **extracts location names from images, retrieves coordinates, and calculat
 <!--- **LinkedIn**: [Your Profile](https://linkedin.com/in/YourProfile)
 - **Email**: your.email@example.com -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kp009&show_icons=true&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=green)
