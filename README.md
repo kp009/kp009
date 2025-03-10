@@ -1,16 +1,28 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
+  
+## 💻 About Me  
+I am a **Fullstack Software Engineer** with **3 years of experience in .NET development**.  
+Passionate about **building scalable web applications, blockchain solutions, and AI-driven projects**.  
 
-<!--
-**kp009/kp009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am working on a **Location Finder deep learning project using Django**,  
+which **extracts location names from images, retrieves coordinates, and calculates transportation costs**.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Technologies
+- **Programming**: Python, JavaScript, TypeScript, Solidity, C#
+- **AI & Data Science**: TensorFlow, PyTorch, scikit-learn
+- **Blockchain**: Ethereum, Truffle, Solidity, zk-SNARKs
+- **Backend:** C#, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework  
+- **Frontend:** React, Angular 
+- **Databases:** SQL Server, MySQL  
+- **Cloud & DevOps:** Azure, AWS, Docker  
+- **Other:** Git, Jira, Confluence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+🔹 [AI for Trading](https://github.com/kp009/AI-for-Trading)- Stock price prediction & portfolio optimization.  
+🔹 [Supply Chain DApp](https://github.com/kp009/Udacity-Ethereum-Dapp-for-Tracking-Items-through-Supply-Chain) - Blockchain-based supply chain tracking.  
+🔹 [NFT Marketplace](https://github.com/kp009/Udacity-Blockchain-Capstone) - A decentralized NFT Housing platform.
+
+### 📬 Contact Me
+- **GitHub**: [kp009](https://github.com/kp009)
+<!--- **LinkedIn**: [Your Profile](https://linkedin.com/in/YourProfile)
+- **Email**: your.email@example.com -->
