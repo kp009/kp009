@@ -17,7 +17,7 @@ I am a **Fullstack Software Engineer** passionate about **building scalable web 
 🔹 [AI for Trading](https://github.com/kp009/AI-for-Trading)- Stock price prediction & portfolio optimization.  
 🔹 [Supply Chain DApp](https://github.com/kp009/Udacity-Ethereum-Dapp-for-Tracking-Items-through-Supply-Chain) - Blockchain-based supply chain tracking.  
 🔹 [NFT Marketplace](https://github.com/kp009/Udacity-Blockchain-Capstone) - A decentralized NFT Housing platform.
-🔹 [GeoVision](https://github.com/kp009/GeoVision-AI) -Deep Learning-based application that extracts location names from images.
+🔹 [GeoVision](https://github.com/kp009/GeoVision-AI) - Deep Learning based application that extracts location names from images.
 🔹 [Dashboard](https://github.com/kp009/Dashboard-React-Django-MySQL) - Dashboard to Upload & Visualize Companies Data.
 
 
